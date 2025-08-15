@@ -11,3 +11,6 @@
         - Step # 5: npm run dev
         - Step # 6: create database and connect it with project via .env file .
         - Step # 7: php artisan migrate
+# Guidlines
+    - For Install Node_modules folder ( NodeJS ) : npm install & npm run dev
+    - For Install Vendor Folder ( Laravel ): composer update
